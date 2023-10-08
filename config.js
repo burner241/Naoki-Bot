@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: '+',
         token: '',
-        owners: [""],
+        owners: ["1073003512969056376"],
         funny: '',
         color: '#2f3136',
         footer: 'Protect',
