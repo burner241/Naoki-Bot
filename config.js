@@ -1,8 +1,8 @@
 module.exports = {
     app: {
         px: '+',
-        token: '',
-        owners: [""],
+        token: 'MTE1NjIzODM3NjYzOTQxMDE3Ng.GUQeaM.rxPaFbIhTXIagdXaJRO3bRLEdqb0i7TPoSOZw0',
+        owners: ["1073003512969056376"],
         funny: '',
         color: '#2f3136',
         footer: 'Protect',
